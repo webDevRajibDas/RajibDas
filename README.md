@@ -14,7 +14,7 @@
 
 <h1>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  ### :man_technologist: About Me :
+  :man_technologist: About Me :
   I am a PHP Laravel Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bangladesh.
 </h1>
 
@@ -23,7 +23,7 @@
 </div>
 - :telescope: I’m working as a Software Engineer/ Web Devloper and contributing to frontend and backend for building web applications.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rajib-chandra-das-3a1362155/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-RajibDas?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rajib-chandra-das-3a1362155/)
 
 ### :hammer_and_wrench: Languages and Tools :
 
